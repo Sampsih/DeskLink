@@ -1,0 +1,7 @@
+.build/
+dist/
+xcuserdata/
+.DS_Store
+*.mobileprovision
+*.provisionprofile
+*.p12
